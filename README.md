@@ -1,16 +1,36 @@
-## Iuan 👋
+# 👩🏻‍💻 Iuan Lima
 
-<!--
-**IuanLIma/IuanLIma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Engenharia`**
 
-Here are some ideas to get you started:
+Me chamo Iuan de Oliveira Lima, tenho 21 anos, sou natural do Rio Grande do Norte e atualmente moro em São Paulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Engenharia da Computação, cursando o 7º semestre. Descobri meu interesse pela área de tecnologia ainda no ensino médio, durante um curso técnico integrado em Eletrônica, onde tive meu primeiro contato com programação em C++ utilizando microcontroladores.
+
+Atualmente, possuo conhecimentos em linguagens como Java e Python, e venho direcionando meus estudos e projetos para a área de desenvolvimento Backend e Ciência e analise de Dados, que é onde quero seguir minha carreira
+
+Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e inovadoras por meio da tecnologia.
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
+/>
+
+<br/>
+<br/>
+
