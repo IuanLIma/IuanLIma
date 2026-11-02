@@ -4,9 +4,9 @@
 
 Me chamo Iuan de Oliveira Lima, tenho 21 anos, sou natural do Rio Grande do Norte e atualmente moro em São Paulo.
 
-Sou estudante de Engenharia da Computação, cursando o 7º semestre. Descobri meu interesse pela área de tecnologia ainda no ensino médio, durante um curso técnico integrado em Eletrônica, onde tive meu primeiro contato com programação em C++ utilizando microcontroladores.
+Sou estudante de Engenharia da Computação, cursando o 8º semestre. Descobri meu interesse pela área de tecnologia ainda no ensino médio, durante um curso técnico integrado em Eletrônica, onde tive meu primeiro contato com programação em C++ utilizando microcontroladores como Arduino e ESP32.
 
-Atualmente, possuo conhecimentos em linguagens como Java e Python, e venho direcionando meus estudos e projetos para a área de desenvolvimento Backend e Ciência e analise de Dados, que é onde quero seguir minha carreira
+Atualmente, possuo conhecimentos em linguagens como Java e Python, bibliotecas como Pandas e NumPy e venho direcionando meus estudos e projetos para a área de desenvolvimento Backend e Analise de Dados, que é onde quero seguir minha carreira
 
 Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e inovadoras por meio da tecnologia.
 
